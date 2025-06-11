@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dylans-PW-Validator/static/css/main.e6c13ad2.css",
+    "main.js": "/Dylans-PW-Validator/static/js/main.8a002a94.js",
+    "static/js/453.0e57cb3c.chunk.js": "/Dylans-PW-Validator/static/js/453.0e57cb3c.chunk.js",
+    "index.html": "/Dylans-PW-Validator/index.html",
+    "main.e6c13ad2.css.map": "/Dylans-PW-Validator/static/css/main.e6c13ad2.css.map",
+    "main.8a002a94.js.map": "/Dylans-PW-Validator/static/js/main.8a002a94.js.map",
+    "453.0e57cb3c.chunk.js.map": "/Dylans-PW-Validator/static/js/453.0e57cb3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8a002a94.js"
+  ]
+}
